@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+html, body {
+    margin:0;
+    padding:0;
+}
+
+body
+   {
+	font-family: 'Open Sans';
+	font-size: 12px;
+}
+h4{
+	font-size: 20px;
+	text-align: center;
+	padding-left: 10px;
+	padding-top: 250px;
+}
+h5{
+	text-align: center;
+	font-size: 14px;
+}
+#heroSection
+    { background-color: #060606;
+      color: white;
+      padding-bottom: 380px;
+      padding-top: 30px;
+      
+
+
+     }
+
+li {
+	display: inline;
+	float: right;
+	padding: 14px 16px;
+	
+}
+ul{
+	
+}
+#About
+    {background-color: #181818;
+     color: white;
+     padding-top: 30px;
+     text-align: center;
+     padding-bottom: 200px;
+
+
+    }
+ a{
+ 	text-decoration: none;
+ 	color: #2df2a8;
+ }
+
+#Contact
+    {background-color: #D7D7D7;
+     padding-top: 30px;
+
+
+    }
+    input[type= text]{
+  width: 500px; height: 150px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+} 
+textarea{
+  width: 500px; height: 150px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+} 
+input[type= texts] {
+  width: 500px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+ input[type= tel]{
+  width: 500px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+ }
+ input[type= email]{
+  width: 500px;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+
+ }
+
+ .form-container {
+  width: 500px;
+  display: inline-block; margin-left: 100px;
+
+  
+  
+ }
+ input[type=submit]{
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 16px 230px;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+
+ }
+ footer{
+ 	text-align: center;
+ 	padding-top: 30px;
+ 	padding-bottom: 10px;
+ }
